@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">SocialNetwork</string>
+
+        button's text
+    <string name="pursue">Continue</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+
+        hints
+    <string name="hint_email">Email</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_username_or_email">Username / Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_repeat_password">Password Again</string>
+
+        descriptions
+    <string name="description_home">Home</string>
+    <string name="description_chats">Chats</string>
+    <string name="description_profile">Profile</string>
+    <string name="description_activity">Activity</string>
+    <string name="description_logo">Logo</string>
+    <string name="description_like">Like</string>
+    <string name="description_unlike">Unlike</string>
+    <string name="description_comment">Comment</string>
+    <string name="description_share">Share</string>
+    <string name="description_post_image">Post Image</string>
+    <string name="description_profile_picture">Profile Picture</string>
+    <string name="description_password_visible">Show Password</string>
+    <string name="description_password_invisible">Hide Password</string>
+    <string name="description_create_post">Create new post</string>
+
+        questions
+    <string name="question_sign_up">Don\'t have an account yet?</string>
+    <string name="question_sign_in">Already have an account?</string>
+
+        with arguments
+    <string name="x_likes">%d likes</string>
+    <string name="x_comments">%d comments</string>
+
+
+        utils
+    <string name="read_more">Read more</string>
+    <string name="unknown">Unknown</string>
+    <string name="empty" />
+
+        actions
+    <string name="liked">liked</string>
+    <string name="commented_on">commented on</string>
+    <string name="started_following_you">started following you</string>
+
+        targets
+    <string name="your_post">your post</string>
+    <string name="your_comment">your comment</string>
+
+        info
+    <string name="info_account_created_successfully">Account created successfully!</string>
+
+
+
+
+        exceptions
+
+        exception - server
+    <string name="exception_cannot_reach_the_server">Oops! Cannot reach the server. Please check your connection.</string>
+
+        exception - http
+    <string name="exception_http">Something went wrong. Please try again.</string>
+
+        exception - field
+    <string name="exception_field_empty">This field cannot be empty.</string>
+    <string name="exception_field_too_short">The input is too short.</string>
+
+        exception - signup
+    <string name="exception_invalid_email">This email address is invalid.</string>
+    <string name="exception_email_already_taken">This email address is already in use.</string>
+    <string name="exception_passwords_do_not_match">Passwords don\'t match.</string>
+
+        exception - sign in
+    <string name="exception_failed_to_sign_in">Failed to sign in. Please check your email and password.</string>
+
+</resources>

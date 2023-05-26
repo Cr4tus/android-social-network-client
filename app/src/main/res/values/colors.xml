@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_bg">#202020</color>
+    <color name="gray_sfc">#404040</color>
+    <color name="gray_on_sfc">#606060</color>
+    <color name="gray_ht">#6D6D6D</color>
+    <color name="gray_on_bg">#EEEEEE</color>
+    <color name="blue_acct">#008BFF</color>
+    <color name="green_acct">#08FF04</color>
+</resources>
